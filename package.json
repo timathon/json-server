@@ -1,0 +1,24 @@
+{
+  "name": "json-server-x",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.json --port 3080 -H 0.0.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timathon/json-server-x.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timathon/json-server-x/issues"
+  },
+  "homepage": "https://github.com/timathon/json-server-x#readme",
+  "dependencies": {
+    "json-server": "^0.15.0"
+  }
+}
